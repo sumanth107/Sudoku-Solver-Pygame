@@ -1,6 +1,10 @@
 # Sudoku-Solver-Pygame
 Created a Sudoku Solver using Python's pygame library. Takes input from user and outputs the solution.
 
+
+![sudoku.gif](sudoku.gif) 
+
+
 ## Files
 * [Sudoku.py](Sudoku.py) : Python file contianing the code.
 * [Sudoku.exe](Sudoku.exe) : Executable file to directly run the game.
