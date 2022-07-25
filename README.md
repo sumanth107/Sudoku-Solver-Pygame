@@ -2,7 +2,7 @@
 Created a Sudoku Solver using Python's pygame library. Takes input from user and outputs the solution.
 
 
-<img src="sudoku.gif" width="400" height="400"/>
+<img src="sudoku.gif" width="500" height="500"/>
 
 
 ## Files
